@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * @author zhangcongcong
  * @date 2020年7月22日15:18:37
- * #description 别人有的，你也可以用  python可以写的 我Java也可以
+ * #description 别人有的，你也可以有  python可以写的 我Java也可以
  */
 public class DouTu {
 
